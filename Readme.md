@@ -55,4 +55,4 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 ## Result
 
 ### Completion
-![Completion](Completion.png)
+![Completion](Completion.PNG)
